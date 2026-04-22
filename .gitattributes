@@ -1,2 +1,0 @@
-data/raw/listings.csv filter=lfs diff=lfs merge=lfs -text
-data/raw/past_rates.csv filter=lfs diff=lfs merge=lfs -text

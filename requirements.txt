@@ -1,8 +1,0 @@
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
-nbconvert
-ipykernel
-pyarrow
