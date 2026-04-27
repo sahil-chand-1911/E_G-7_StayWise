@@ -38,3 +38,47 @@ Alternatively, you can open and run the notebooks individually in the `notebooks
 - **Amenity Impact Analysis**: Identifies which amenities are most correlated with high revenue.
 - **Market Segmentation**: Aggregates performance metrics by city and property type.
 - **Data Robustness**: Handles parsing errors and standardizes categorical data across millions of rows.
+
+# Airbnb Market Intelligence Dashboard
+
+An interactive Tableau dashboard analyzing pricing, demand, and occupancy trends across cities.
+
+---
+
+## 🚀 Live Dashboard
+
+🔗 https://public.tableau.com/app/profile/akshat.agrawal2260/viz/Airbnb_17773079392460/MarketIntelligence
+
+---
+
+## Overview
+
+This dashboard is designed to provide a clear view of:
+
+* Market demand and listing distribution
+* Pricing behavior across different cities
+* Revenue and occupancy performance
+
+---
+
+## Dashboard Sections
+
+* 🧭 **Market Intelligence** — High-level overview of listings, demand, and revenue
+* 💰 **Pricing & Performance** — Pricing trends and revenue insights
+* ⚙️ **Optimization** — Opportunities to improve pricing and occupancy
+
+---
+
+## Screenshots
+
+All dashboard previews are available here:
+📂 `tableau/screenshots/screenshots.md`
+
+---
+
+## 🛠 Built With
+
+* Tableau Public
+* Data visualization & dashboard design principles
+
+---
