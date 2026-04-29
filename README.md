@@ -52,7 +52,7 @@ If you are working in Google Colab:
 | Project Lead | Sahil Chand | https://github.com/sahil-chand-1911 |
 | Data Lead | Pranjal Shukla | https://github.com/Pranjal9005 |
 | ETL and Analysis Lead | Shyam Verma | https://github.com/ishyverma |
-| Visualization Lead | Akshat Agrawal | https://github.comakshuu1 |
+| Visualization Lead | Akshat Agrawal | https://github.com/Akshuu1 |
 | Strategy Lead | Vikrant Yadav | https://github.com/vikgenix |
 | PPT and Quality Lead | Trishit Swarnakar | https://github.com/Trishix |
 
