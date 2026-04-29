@@ -2,14 +2,14 @@
 
 ### 🧭 Market Intelligence
 
-<img width="1494" height="899" alt="Marketing Intelligence" src="https://github.com/user-attachments/assets/07ef7424-4fda-4bf7-85b2-bb4f0be021b8" />
+<img width="1497" height="902" alt="Screenshot 2026-04-29 at 11 07 37 AM" src="https://github.com/user-attachments/assets/796df7d6-f2d2-4cd4-819f-c5cf533e20b7" />
 
 ### 💰 Pricing & Performance
 
-<img width="1509" height="911" alt="Pricing   Performance" src="https://github.com/user-attachments/assets/a080ad09-3b80-4d06-bf08-cbf11828088d" />
+<img width="1508" height="916" alt="Screenshot 2026-04-29 at 11 07 53 AM" src="https://github.com/user-attachments/assets/2a83f46a-f554-4397-a28c-125081103da6" />
 
 ### ⚙️ Optimization
 
-<img width="1492" height="897" alt="Optimization" src="https://github.com/user-attachments/assets/0f2373d6-f742-4358-8d55-da002269ad5c" />
+<img width="1492" height="903" alt="Screenshot 2026-04-29 at 11 08 06 AM" src="https://github.com/user-attachments/assets/692215d7-ddfc-4099-a089-f0cec5c68186" />
 
 
