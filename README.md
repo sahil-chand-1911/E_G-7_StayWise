@@ -47,7 +47,7 @@ An interactive Tableau dashboard analyzing pricing, demand, and occupancy trends
 
 ## 🚀 Live Dashboard
 
-🔗 https://public.tableau.com/app/profile/akshat.agrawal2260/viz/Airbnb_17773079392460/MarketIntelligence
+🔗 https://public.tableau.com/app/profile/akshat.agrawal2260/viz/Airbnb_17773079392460/MarketIntelligence?publish=yes
 
 ---
 
