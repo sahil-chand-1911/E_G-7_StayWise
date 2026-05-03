@@ -7,3 +7,5 @@ Trishit Swarnakar - https://trishix.github.io/DVA_Portfolio/
 Vikrant Yadav - https://vikrant-portfolio-data-analyst.netlify.app/
 
 Pranjal Shukla - https://pranjal-shukla-portfolio.vercel.app
+
+Sahil Chand - https://portfolio-iota-beige-q8u132fu34.vercel.app/

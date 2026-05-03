@@ -6,3 +6,4 @@ Trishit Swarnakar - [DVAResumeTrishitSwarnakar.pdf](https://github.com/user-atta
 
 Vikrant Yadav - [Vikrant_Yadav_DataAnalyst_Resume_Final.pdf](https://github.com/user-attachments/files/27235858/Vikrant_Yadav_DataAnalyst_Resume_Final.pdf)
 
+Sahil Chand - [Resume-Sahil.Chand.pdf](https://github.com/user-attachments/files/27321032/Resume-Sahil.Chand.pdf)
